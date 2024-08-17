@@ -1,4 +1,4 @@
 baseURL="https://abhijeetunreal.github.io/lookbook/"
 languageCode="en-us"
 title="portfolio"
-theme="/home/runner/work/lookbook/lookbook/themes"
+theme="/home/runner/work/lookbook/theme.toml"
